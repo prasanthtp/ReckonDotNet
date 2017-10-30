@@ -11,6 +11,7 @@ All unit tests are in Test1.Tests
 BossHog logic is in Test1.Classes - > BossHog.cs file
 
 ################################################################################################################
+
 Test 2:
 **************************************************************************************************
 We need a way of finding all the occurrences of a particular set of characters in a string.

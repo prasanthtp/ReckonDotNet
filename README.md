@@ -6,9 +6,12 @@ of both three and five print “BossHog”."
 **************************************************************************************************
 Solution
 ---------
-Set Test1 as startup project Run the console application
-All unit tests are in Test1.Tests
-BossHog logic is in Test1.Classes - > BossHog.cs file
+Set Test1 as startup project Run the console application.
+
+All unit tests are in Test1.Tests.
+
+BossHog logic is in Test1.Classes - > BossHog.cs file.
+
 
 ###############################################################################
 
@@ -24,6 +27,9 @@ We need a way of finding all the occurrences of a particular set of characters i
 **************************************************************************************************
 Solution
 ---------
-Set Test2 as startup project Run the console application
-All unit tests are in Test2.Tests
-public method named “Find” is in Test2.Classes - > SubString.cs file
+Set Test2 as startup project Run the console application.
+  
+All unit tests are in Test2.Tests.
+
+public method named “Find” is in Test2.Classes - > SubString.cs file.
+
